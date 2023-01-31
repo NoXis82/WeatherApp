@@ -31,5 +31,6 @@
 
     <!-- Repository message -->
     <string name="msg_error_api">Произошла неизвестная ошибка</string>
+    <string name="msg_error_location">Не удалось получить местоположение. Убедитесь, что вы предоставили разрешение и включили GPS.</string>
 
 </resources>

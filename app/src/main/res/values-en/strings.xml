@@ -32,6 +32,7 @@
 
     <!-- Repository message -->
     <string name="msg_error_api">An unknown error occurred</string>
+    <string name="msg_error_location">Could not retrieve location. Make sure to grant permission and enable GPS.</string>
 
 
 </resources>
