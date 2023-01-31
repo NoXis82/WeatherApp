@@ -4,9 +4,9 @@ import android.app.Application
 import ru.umarsh.weatherapp.R
 import ru.umarsh.weatherapp.data.mappers.toWeatherInfo
 import ru.umarsh.weatherapp.data.remote.WeatherApi
-import ru.umarsh.weatherapp.domen.dto.weather.WeatherInfo
-import ru.umarsh.weatherapp.domen.repository.WeatherRepository
-import ru.umarsh.weatherapp.domen.util.Resource
+import ru.umarsh.weatherapp.domain.dto.weather.WeatherInfo
+import ru.umarsh.weatherapp.domain.repository.WeatherRepository
+import ru.umarsh.weatherapp.domain.util.Resource
 import javax.inject.Inject
 
 class WeatherRepositoryImpl @Inject constructor(

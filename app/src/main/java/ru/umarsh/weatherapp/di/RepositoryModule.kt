@@ -5,7 +5,7 @@ import dagger.Module
 import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
 import ru.umarsh.weatherapp.data.repository.WeatherRepositoryImpl
-import ru.umarsh.weatherapp.domen.repository.WeatherRepository
+import ru.umarsh.weatherapp.domain.repository.WeatherRepository
 import javax.inject.Singleton
 
 @Module

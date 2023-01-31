@@ -1,4 +1,4 @@
-package ru.umarsh.weatherapp.domen.location
+package ru.umarsh.weatherapp.domain.location
 
 import android.location.Location
 

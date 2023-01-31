@@ -1,4 +1,4 @@
-package ru.umarsh.weatherapp.domen.util
+package ru.umarsh.weatherapp.domain.util
 
 sealed class Resource<T>(val data: T? = null, val message: String? = null) {
     class Success<T>(data: T?): Resource<T>(data)

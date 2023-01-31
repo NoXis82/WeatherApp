@@ -9,7 +9,7 @@ import android.location.LocationManager
 import androidx.core.content.ContextCompat
 import com.google.android.gms.location.FusedLocationProviderClient
 import kotlinx.coroutines.suspendCancellableCoroutine
-import ru.umarsh.weatherapp.domen.location.LocationTracker
+import ru.umarsh.weatherapp.domain.location.LocationTracker
 import javax.inject.Inject
 import kotlin.coroutines.resume
 

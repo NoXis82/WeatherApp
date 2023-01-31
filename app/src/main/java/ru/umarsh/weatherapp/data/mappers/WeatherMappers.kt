@@ -1,6 +1,6 @@
 package ru.umarsh.weatherapp.data.mappers
 
-import ru.umarsh.weatherapp.domen.dto.weather.*
+import ru.umarsh.weatherapp.domain.dto.weather.*
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 

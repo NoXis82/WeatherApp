@@ -1,4 +1,4 @@
-package ru.umarsh.weatherapp.domen.dto.weather
+package ru.umarsh.weatherapp.domain.dto.weather
 
 import java.time.LocalDateTime
 

@@ -5,7 +5,7 @@ import dagger.Module
 import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
 import ru.umarsh.weatherapp.data.location.DefaultLocationTracker
-import ru.umarsh.weatherapp.domen.location.LocationTracker
+import ru.umarsh.weatherapp.domain.location.LocationTracker
 import javax.inject.Singleton
 
 @Module

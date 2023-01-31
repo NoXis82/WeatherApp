@@ -2,7 +2,7 @@ package ru.umarsh.weatherapp.data.remote
 
 import retrofit2.http.GET
 import retrofit2.http.Query
-import ru.umarsh.weatherapp.domen.dto.weather.WeatherDto
+import ru.umarsh.weatherapp.domain.dto.weather.WeatherDto
 
 interface WeatherApi {
 
