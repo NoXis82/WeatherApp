@@ -34,5 +34,11 @@
     <string name="msg_error_api">An unknown error occurred</string>
     <string name="msg_error_location">Could not retrieve location. Make sure to grant permission and enable GPS.</string>
 
+    <!-- UI -->
+    <string name="today">Today</string>
+    <string name="pressure_unit">hpa</string>
+    <string name="humidity_unit">%</string>
+    <string name="wind_speed_unit">km/h</string>
+
 
 </resources>

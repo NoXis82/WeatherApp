@@ -33,4 +33,10 @@
     <string name="msg_error_api">Произошла неизвестная ошибка</string>
     <string name="msg_error_location">Не удалось получить местоположение. Убедитесь, что вы предоставили разрешение и включили GPS.</string>
 
+    <!-- UI -->
+    <string name="today">Сейчас</string>
+    <string name="pressure_unit">hpa</string>
+    <string name="humidity_unit">%</string>
+    <string name="wind_speed_unit">км/ч</string>
+
 </resources>

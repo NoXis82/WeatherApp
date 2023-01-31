@@ -1,6 +1,7 @@
 package ru.umarsh.weatherapp.domain.viewmodel
 
 import android.app.Application
+import android.util.Log
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
@@ -55,10 +56,6 @@ class WeatherViewModel @Inject constructor(
                     error = application.getString(R.string.msg_error_location)
                 )
             }
-
-
-
         }
     }
-
 }
