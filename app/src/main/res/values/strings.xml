@@ -29,4 +29,7 @@
     <string name="slight_hail_thunderstorm">Гроза с небольшим градом</string>
     <string name="heavy_hail_thunderstorm">Гроза с градом</string>
 
+    <!-- Repository message -->
+    <string name="msg_error_api">Произошла неизвестная ошибка</string>
+
 </resources>

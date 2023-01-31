@@ -1,10 +1,11 @@
-package ru.umarsh.weatherapp.dto.weather
+package ru.umarsh.weatherapp.domen.dto.weather
 
 import androidx.annotation.DrawableRes
+import androidx.annotation.StringRes
 import ru.umarsh.weatherapp.R
 
 sealed class WeatherType(
-    val weatherDesc: Int,
+    @StringRes val weatherDesc: Int,
     @DrawableRes val iconRes: Int
 ) {
     object ClearSky : WeatherType(

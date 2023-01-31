@@ -30,4 +30,8 @@
     <string name="slight_hail_thunderstorm">Thunderstorm with slight hail</string>
     <string name="heavy_hail_thunderstorm">Thunderstorm with heavy hail</string>
 
+    <!-- Repository message -->
+    <string name="msg_error_api">An unknown error occurred</string>
+
+
 </resources>
