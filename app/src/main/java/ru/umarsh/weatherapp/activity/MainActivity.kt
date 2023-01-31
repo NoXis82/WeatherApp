@@ -1,4 +1,4 @@
-package ru.umarsh.weatherapp
+package ru.umarsh.weatherapp.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
